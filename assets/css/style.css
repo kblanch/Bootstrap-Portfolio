@@ -1,0 +1,23 @@
+
+
+.pull-left {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+/*
+.projects {
+	position: relative;
+	overflow: auto;
+}
+*/
+.project {
+	max-width:100%;
+/*	position: absolute;*/
+}
+
+/*
+.col-md-8 {
+	background-color: white;
+}
+*/
